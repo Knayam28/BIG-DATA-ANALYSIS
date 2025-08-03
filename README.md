@@ -61,3 +61,7 @@ This genre analysis template serves many real-world applications—film market r
 
 Summary:
 This task exemplifies an end-to-end genre frequency analysis pipeline using modern, scalable Python tools. From data ingestion, transformation, through distributed computing, to insightful visualization, it provides a practical and robust methodology for understanding categorical data within large movie datasets. The approach is generic and extendable, providing a foundation for more advanced film analytics or other genres/categorical data analyses.**
+
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6a87148f-542a-4b4c-b649-a38505b1d5cd" />
