@@ -12,6 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
+*DESCRIPTION*
 ** This task aims to perform an in-depth genre analysis of the IMDb Top 1000 movies using big data tools and visualization libraries. We employ Dask for scalable data processing, Pandas for tabular manipulations, and Matplotlib for generating insightful visualizations. The dataset (imdb_top_1000.csv) comprises a broad spectrum of movie metadata, with particular focus on the genre information tagged to each film.
 
 Step-by-Step Task Description:
@@ -59,4 +60,4 @@ Applications:
 This genre analysis template serves many real-world applications—film market research, streaming platform content strategy, academic studies in film or media, and the design of recommender systems. By quantifying and visualizing genre prevalence, stakeholders can identify trends, gaps, and potential opportunities in film content curation.
 
 Summary:
-This task exemplifies an end-to-end genre frequency analysis pipeline using modern, scalable Python tools. From data ingestion, transformation, through distributed computing, to insightful visualization, it provides a practical and robust methodology for understanding categorical data within large movie datasets. The approach is generic and extendable, providing a foundation for more advanced film analytics or other genres/categorical data analyses. 
+This task exemplifies an end-to-end genre frequency analysis pipeline using modern, scalable Python tools. From data ingestion, transformation, through distributed computing, to insightful visualization, it provides a practical and robust methodology for understanding categorical data within large movie datasets. The approach is generic and extendable, providing a foundation for more advanced film analytics or other genres/categorical data analyses.**
